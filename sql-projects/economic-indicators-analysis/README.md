@@ -1,7 +1,7 @@
 ## 📊 Economic Indicators Analysis (Project Showcase)
 ## 👩🏽‍💻 Author
 **Malwandla Blessing Mahori**  
-Dec 2025 
+
 
 ### 🚀 Project Overview
 This project analyzes global unemployment data (1991-2021) using SQL to identify trends across countries and over time. The analysis demonstrates key data analytics skills including data filtering, aggregation, classification, window functions, and relational joins. The goal was to take a complex multi-year dataset and extract actionable insights using advanced SQL techniques. I focused on ensuring **Data Integrity** and creating **Analytical Pipelines** that could easily be connected to visualization tools like Power BI.
