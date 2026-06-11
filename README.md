@@ -48,5 +48,5 @@ I am currently refining my skills in Cloud Data Architecture (Azure/AWS) and Big
 ---
 
 ## 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/your-profile-link](https://linkedin.com/in/your-profile-link)
-* **GitHub:** [github.com/your-username](https://github.com/your-username)
+* **LinkedIn:** [linkedin.com/in/your-profile-link](https://linkedin.com/in/malwandla-mahori-116070335)
+* **GitHub:** [github.com/your-username](https://github.com/MalBl3ssing)
